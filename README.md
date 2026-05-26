@@ -16,7 +16,7 @@
 ### Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,c,cpp,html,java,js,php,powershell,py,ts,windows,aws,netlify,vercel,gcp,firebase,angular,bootstrap,django,fastapi,express,flask,npm,nextjs,nodejs,opencv,react,tailwind,vite,vue,wordpress,nginx,mongodb,mysql,sqlite,supabase,ai,figma,numpy,pandas,pytorch,sklearn,matplotlib,githubactions,git,github,docker,eslint,gradle,notion,postman,prettier&perline=14" />
+    <img src="https://skillicons.dev/icons?i=css,c,html,java,js,php,powershell,python,ts,windows,aws,vercel,firebase,angular,bootstrap,django,fastapi,express,flask,npm,nextjs,nodejs,opencv,react,tailwind,vite,mongodb,mysql,sqlite,supabase,ai,figma,numpy,pandas,pytorch,sklearn,matplotlib,githubactions,git,github,docker,gradle,notion,prettier&perline=14" />
   </a>
 </p>
 
