@@ -1,28 +1,55 @@
 # Hi 👋, I'm Ansh Sharma
+### AI/ML Developer & Full Stack Developer — I build autonomous systems, agentic pipelines, and deployed AI products.
 
-### A passionate Full Stack & Machine Learning Developer
+![Profile views](https://komarev.com/ghpvc/?username=Xynash&label=Profile%20views&color=27ae60&style=flat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-27ae60?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-sharma-b07705296/)
+[![Email](https://img.shields.io/badge/Email-2ecc71?style=flat&logo=gmail&logoColor=white)](mailto:ash162005@gmail.com)
 
-![Profile views](https://komarev.com/ghpvc/?username=Xynash&label=Profile%20views&color=0e75b6&style=flat)
+---
 
-- 🌱 I’m currently exploring **Machine Learning and Cloud Architectures**
-- 💻 All of my projects are available at [https://github.com/Xynash](https://github.com/Xynash)
-- 📫 How to reach me: **ash162005@gmail.com**
+- 🤖 Building **autonomous agentic systems** — LLM pipelines, AIOps engines, RAG platforms
+- 🚀 Currently focused on **DSA prep + campus placements** (SDE / AI Engineer roles)
+- 🌱 Open source contributor at **CNCF Layer5 / Meshery**
+- 💼 Ex **Infosys Springboard Intern** — AI documentation platform
+- 📫 Reach me at **ash162005@gmail.com**
 
-### Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/ansh-sharma-b07705296/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Xynash" height="30" width="40" /></a>
-</p>
+---
 
-### Languages and Tools:
+### 🛠️ Languages & Tools
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,c,html,java,js,php,powershell,python,ts,aws,vercel,firebase,bootstrap,django,fastapi,express,flask,nextjs,nodejs,opencv,react,tailwind,vite,mongodb,mysql,sqlite,supabase,ai,figma,numpy,pandas,pytorch,sklearn,matplotlib,githubactions,git,github,docker,notion,prettier&perline=14" />
+    <img src="https://skillicons.dev/icons?i=python,java,ts,js,html,css,c&perline=14" />
   </a>
 </p>
 
-### GitHub Stats:
 <p align="left">
-<a href="https://github.com/Xynash">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Xynash&theme=default&hide_border=false" alt="Xynash Stats" />
-</a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,streamlit,django,tailwind&perline=14" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,githubactions,vercel&perline=14" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,supabase,firebase&perline=14" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Xynash&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="Ansh's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xynash&theme=merko&hide_border=true" width="48%" alt="Ansh's Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xynash&theme=merko&hide_border=true" width="98%" alt="Ansh's Contribution Graph" />
 </p>
