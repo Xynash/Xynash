@@ -1,14 +1,19 @@
-# Hi 👋, I'm Ansh Sharma
-### AI/ML Developer & Full Stack Developer — I build autonomous systems, agentic pipelines, and deployed AI products.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=27ae60,1a5c30&height=200&section=header&text=Ansh%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20CNCF%20Contributor&descAlignY=55&descAlign=50" width="100%"/>
 
-![Profile views](https://komarev.com/ghpvc/?username=Xynash&label=Profile%20views&color=27ae60&style=flat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-27ae60?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-sharma-b07705296/)
-[![Email](https://img.shields.io/badge/Email-2ecc71?style=flat&logo=gmail&logoColor=white)](mailto:ash162005@gmail.com)
+<p align="center">
+  <em>I build autonomous systems, agentic pipelines, and deployed AI products.</em>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Xynash&label=Profile%20views&color=27ae60&style=flat" />
+  <a href="https://www.linkedin.com/in/ansh-sharma-b07705296/"><img src="https://img.shields.io/badge/LinkedIn-27ae60?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ash162005@gmail.com"><img src="https://img.shields.io/badge/Email-2ecc71?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
 - 🤖 Building **autonomous agentic systems** — LLM pipelines, AIOps engines, RAG platforms
-- 🚀 Currently focused on **DSA prep + campus placements** (SDE / AI Engineer roles)
+- 🚀 Currently focused on **ML + Security** 
 - 🌱 Open source contributor at **CNCF Layer5 / Meshery**
 - 💼 Ex **Infosys Springboard Intern** — AI documentation platform
 - 📫 Reach me at **ash162005@gmail.com**
@@ -53,3 +58,5 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xynash&theme=merko&hide_border=true" width="98%" alt="Ansh's Contribution Graph" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1a5c30,27ae60&height=100&section=footer" width="100%"/>
